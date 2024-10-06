@@ -1,0 +1,47 @@
+Parameters: 
+Important parameters:
+
+             kCutOff       1                   
+             withGWs       false               
+               lSide       11.3                
+           expansion       true                
+                tMax       10.3137             
+     tOutputRareFreq       0.1                 
+       tOutputInfreq       1                   
+                   N       128                 
+             evolver       VV2                 
+         tOutputFreq       0.1                 
+                  t0       0                   
+                  dt       0.001               
+
+
+Other parameters:
+
+           tolerance       -1                  
+       print_headers       false               
+             OccNumb       false               
+         hdf5Spectra       false               
+    spectraVerbosity       0                   
+            baseSeed       444492750           
+         tBackupFreq       -1                  
+         tOutputVerb       0.1                 
+                 eta       8*1e18              
+              lambda       0.5                 
+  initial_amplitudes       0                   
+     energy_snapshot       E_S_K               
+                  H0       8.48528*1e18        
+     initial_momenta       0                   
+       appendToFiles       false               
+            omegaEoS       0.333               
+     fixedBackground       true                
+     GWprojectorType       1                   
+          PS_version       1                   
+               input       ../src/models/parameter-files/lphi4.in
+             PS_type       1                   
+           deltaKBin       1                   
+          outputfile       ./                  
+
+The simulation started on the d23 m9 y2024 around h16m35.
+It will be running on a grid of (1,1,1) cores.The simulation finished on the d23 m9 y2024 around h16m40.
+The timer indicates that it ran for 330.757s.
+As it ran on 1 cores, this corresponds to 0.0918769 core hours.

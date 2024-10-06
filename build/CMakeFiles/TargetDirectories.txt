@@ -1,0 +1,4 @@
+/Users/lucamarsili/Documents/IFIC/cosmolattice/build/CMakeFiles/cosmolattice.dir
+/Users/lucamarsili/Documents/IFIC/cosmolattice/build/CMakeFiles/clean-cmake.dir
+/Users/lucamarsili/Documents/IFIC/cosmolattice/build/CMakeFiles/edit_cache.dir
+/Users/lucamarsili/Documents/IFIC/cosmolattice/build/CMakeFiles/rebuild_cache.dir
